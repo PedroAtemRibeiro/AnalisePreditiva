@@ -59,6 +59,8 @@ os contras são: que ja nos Features (Variaveis de treino x) não posso utilizar
 
 # Como Rodar o Projeto : 
 
+### Basta ter a sheet onde deseja salvar os resultados dentro do mesmo Folder do projeto, e na linha  "TableTest.to_csv('NomeDoArquivo.formato', index =False)"  adicionar o nome desse arquivo seguido de '.' e o tipo do arquivo
+
 
 ## Video de Execução 'Predicted' : 
 
