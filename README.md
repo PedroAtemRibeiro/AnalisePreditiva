@@ -1,4 +1,4 @@
-# Desafio Análise Preditiva
+#                                                   Desafio Análise Preditiva
  
  ## Desafio
 
@@ -27,15 +27,16 @@ O segundo dataset chamado de desafio_manutencao_preditiva_teste possui 3333 linh
 
 6- Aplico a função de aprendizado de maquina 'Train_test_split' utilizando as variaveis x e y, e determinando a porcentagem de teste para '0.2'
  
-### 7- Por se tratar de um problema do tipo Classificação,decido usar o modelo que mais se aproxima dos dados,  chamado DecisionTreeClassifier da biblioteca Sklearn.
+### 7- Por se tratar de um problema do tipo Classificação,decido usar o modelo que mais se aproxima dos dados,  chamado DecisionTreeClassifier da biblioteca Sklearn. Os pros são : poder utilizar uma variavel string a ser prevista 
+os contras são: que ja nos Features (Variaveis de treino x) não posso utilizar string, por isso me levou a retirar a coluna type do dataframe.
 
-8- Chamo a função DecisionTreeClassifier utilizando os parâmetros de x_treino e y_treino 
+8- Chamo a função DecisionTreeClassifier utilizando os parâmetros de x_treino e y_treino .
 
-9- Agora com nosso modelo ja treinado, chamo esta função utilizando os dados de x e o transformo em um dataframe vinculando à variavel 'FullPredictedSheetTrain'para testarmos a eficácia do modelo
+9- Agora com nosso modelo ja treinado, chamo esta função utilizando os dados de x e o transformo em um dataframe vinculando à variavel 'FullPredictedSheetTrain'para testarmos a eficácia do modelo.
 
 ### 10- Para medir a Performace (eficácia) do modelo, é utilizado a função Accuracy_score do pacote sklearn.metrics.
 
-### 11- Ao aplicar a função Accuracy_score para a comparação dos dataframes 'FullPredictedSheetTrain' e 'Y', é obtido um percentual de 99.4% de acerto 
+### 11- Ao aplicar a função Accuracy_score para a comparação dos dataframes 'FullPredictedSheetTrain' e 'Y', é obtido um percentual de 99.4% de acerto .
 
 ### 12- Agora podemos aplicar o modelo 'DecisionTreeClassifier' para os dados de  'desafio_manutencao_preditiva_teste.csv' 
 
@@ -44,7 +45,7 @@ O segundo dataset chamado de desafio_manutencao_preditiva_teste possui 3333 linh
 
 
 
-### 13- Agora é só concatenar com a tabela de Teste deixando só a coluna exigida no desafio 
+### 13- Agora é só concatenar com a tabela de Teste deixando só a coluna exigida no desafio .
 
 
 ![2](https://user-images.githubusercontent.com/114637779/216668662-3ee608d9-29c9-4f60-a0a8-c5856e105f48.png)
@@ -53,7 +54,7 @@ O segundo dataset chamado de desafio_manutencao_preditiva_teste possui 3333 linh
 ### 14- Por fim eu exporto a tabela concatenada em formato csv para a sheet 'Predicted' conforme o solicitado.
 
 
-### OBS : A criação do arquivo FeedBack é para tirar a teima de que o aprendizado de maquina estaria funcionando 
+### OBS : A criação do arquivo FeedBack é para tirar a teima de que o aprendizado de maquina estaria funcionando .
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
