@@ -1,0 +1,2 @@
+Pandas => 1.5.3
+Scikit-learn => 1.2.0
