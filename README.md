@@ -41,14 +41,23 @@ os contras são: que ja nos Features (Variaveis de treino x) não posso utilizar
 ### 12- Agora podemos aplicar o modelo 'DecisionTreeClassifier' para os dados de  'desafio_manutencao_preditiva_teste.csv' 
 
 
+
+
 ![1](https://user-images.githubusercontent.com/114637779/216668172-f5831793-af6e-4e99-a0ee-073869113a7d.png)
+
+
+
 
 
 
 ### 13- Agora é só concatenar com a tabela de Teste deixando só a coluna exigida no desafio .
 
 
+
+
 ![2](https://user-images.githubusercontent.com/114637779/216668662-3ee608d9-29c9-4f60-a0a8-c5856e105f48.png)
+
+
 
 
 ### 14- Por fim eu exporto a tabela concatenada em formato csv para a sheet 'Predicted' conforme o solicitado.
