@@ -57,6 +57,8 @@ os contras são: que ja nos Features (Variaveis de treino x) não posso utilizar
 ### OBS : A criação do arquivo FeedBack é para tirar a teima de que o aprendizado de maquina estaria funcionando .
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Como Rodar o Projeto : 
+
 
 ## Video de Execução 'Predicted' : 
 
