@@ -28,8 +28,8 @@ O segundo dataset chamado de desafio_manutencao_preditiva_teste possui 3333 linh
 6- Aplico a função de aprendizado de maquina 'Train_test_split' utilizando as variaveis x e y, e determinando a porcentagem de teste para '0.2'
  
 ### 7- Por se tratar de um problema do tipo Classificação,decido usar o modelo que mais se aproxima dos dados,  chamado DecisionTreeClassifier da biblioteca Sklearn. 
-Os pros são : poder utilizar uma variavel string a ser prevista 
-os contras são: que ja nos Features (Variaveis de treino x) não posso utilizar string, por isso me levou a retirar a coluna type do dataframe.
+### Os pros são : poder utilizar uma variavel string a ser prevista 
+### os contras são: que ja nos Features (Variaveis de treino x) não posso utilizar string, por isso me levou a retirar a coluna type do dataframe.
 
 8- Chamo a função DecisionTreeClassifier utilizando os parâmetros de x_treino e y_treino .
 
