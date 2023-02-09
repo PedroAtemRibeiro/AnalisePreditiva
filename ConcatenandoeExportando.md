@@ -6,11 +6,11 @@
 
 
 
-###Por fim eu exporto a tabela concatenada em formato csv para a sheet 'Predicted' conforme o solicitado.
-
+### Por fim eu exporto a tabela concatenada em formato csv para a sheet 'Predicted' conforme o solicitado.
+obs: o arquivo deve estar dentro do mesmo folder do projeto 
 ![ExportandoParaPredicted](https://user-images.githubusercontent.com/114637779/217751491-5e05cc58-3ed9-477c-b08b-f6aa932b3b21.png)
 
 
 
-### OBS : A criação do arquivo FeedBack é para tirar a teima de que o aprendizado de maquina estaria funcionando .
+
 
