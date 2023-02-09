@@ -22,15 +22,11 @@
 ## Video de Execução 'Predicted' : 
 
 
-https://user-images.githubusercontent.com/114637779/216673700-465c96d7-55b0-4570-942d-1a5c2dc1cc06.mp4
+
+https://user-images.githubusercontent.com/114637779/217755228-09c5b6c9-8def-44fe-88b6-540a526afec7.mp4
 
 
 
 
-## Video de Execução 'Feedback' : 
-
-
-
-https://user-images.githubusercontent.com/114637779/216673739-1b309304-4114-4b3c-b917-8c7b30e185c9.mp4
 
 
