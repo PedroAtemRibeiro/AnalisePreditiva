@@ -8,8 +8,6 @@
 
 -  [Relatório](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/Relatorio.pdf)
 
--  [Como Rodar o Projeto](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/RodandoProjeto.md)
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
