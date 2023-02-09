@@ -1,7 +1,7 @@
 
 -  [Importando e Transformando os Dados](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/ImportandoDados.md)
 
--  [Dividindo e Treinando Modelo](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/dividindoTreinando.md)
+-  [Dividindo Dados e Treinando Modelo](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/dividindoTreinando.md)
 
 -  [Medindo Performace](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/Performace.md)
 
