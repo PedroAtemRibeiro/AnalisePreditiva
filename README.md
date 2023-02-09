@@ -1,6 +1,6 @@
 #                                                   Desafio Análise Preditiva
  
--  [Desafio](PedroAtemRibeiro/AnalisePreditiva/blob/main/Desafio.md)
+-  [Desafio](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/Desafio.md)
 
 -  [Proposta](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/Proposta.md) 
 
@@ -15,9 +15,10 @@
 
 # Como Rodar o Projeto : 
 
-### É necessário ter a sheet onde deseja salvar os resultados dentro do mesmo Folder do projeto, e na linha  "TableTest.to_csv('NomeDoArquivo.formato', index =False)"  adicionar o nome desse arquivo seguido de '.' e o tipo do arquivo.
-
-
+### Requisitos
+ - ter a sheet onde deseja salvar os resultados dentro do mesmo Folder do projeto 
+ - Caminho do Arquivo de Teste 
+ 
 ## Video de Execução 'Predicted' : 
 
 
