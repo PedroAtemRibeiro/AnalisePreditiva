@@ -16,7 +16,7 @@
 # Como Rodar o Projeto : 
 
 ### Requisitos
- - ter a sheet onde deseja salvar os resultados dentro do mesmo Folder do projeto 
+ - Ter a sheet onde deseja salvar os resultados dentro do mesmo Folder do projeto 
  - Caminho do Arquivo de Teste 
  
 ## Video de Execução 'Predicted' : 
