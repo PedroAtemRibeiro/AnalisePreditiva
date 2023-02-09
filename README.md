@@ -2,27 +2,15 @@
  
 [Desafio](PedroAtemRibeiro/AnalisePreditiva/blob/main/Desafio.md)
 
-[Proposta]() 
+[Proposta](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/Proposta.md) 
 
-[Resolução]() 
+[Resolução](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/Resolucao.md) 
 
-[Importando Dados](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/ImportandoDados.md)
+[Relatório](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/Relatorio.pdf)
 
-[Dividindo e Treinando Modelo](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/dividindoTreinando.md)
-
-[Aplicando Modelo](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/usandoModelo.md)
-
-[Concatenando e Exportando](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/ConcatenandoeExportando.md)
-
-[Como Rodar o Projeto]()
-
-Para prever os valores da coluna 'failure_type' da sheet 'desafio_manutencao_preditiva_teste.csv', eu aplicaria um modelo de machine learn do tipo Arvore de Decisão.
+[Como Rodar o Projeto](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/RodandoProjeto.md)
 
 
-1 - Primeiro eu começo importando o arquivo de treino 'desafio_manutencao_preditiva_treino.csv'para a variavel 'Dados' e transformando-o em um dataFrame utilizando a biblioteca Pandas
-
-
-2- Faço o mesmo para os dados de Teste, vinculando à variavel DadosTeste.
 
 ### 3- Escolho somente as colunas(Variaveis) necessárias para DadosTeste : 'air_temperature_k'	'process_temperature_k'	'rotational_speed_rpm'	'torque_nm'	'tool_wear_min'.
 
