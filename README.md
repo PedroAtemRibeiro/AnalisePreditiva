@@ -4,6 +4,8 @@
 
 [Proposta]() 
 
+[Resolução]() 
+
 [Importando Dados](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/ImportandoDados.md)
 
 [Dividindo e Treinando Modelo](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/dividindoTreinando.md)
