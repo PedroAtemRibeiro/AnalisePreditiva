@@ -2,7 +2,17 @@
  
 [Desafio](PedroAtemRibeiro/AnalisePreditiva/blob/main/Desafio.md)
 
-[Resolução](PedroAtemRibeiro/AnalisePreditiva/blob/main/Resolucao.md) 
+[Proposta]() 
+
+[Importando Dados](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/ImportandoDados.md)
+
+[Dividindo e Treinando Modelo](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/dividindoTreinando.md)
+
+[Aplicando Modelo](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/usandoModelo.md)
+
+[Concatenando e Exportando](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/ConcatenandoeExportando.md)
+
+[Como Rodar o Projeto]()
 
 Para prever os valores da coluna 'failure_type' da sheet 'desafio_manutencao_preditiva_teste.csv', eu aplicaria um modelo de machine learn do tipo Arvore de Decisão.
 
