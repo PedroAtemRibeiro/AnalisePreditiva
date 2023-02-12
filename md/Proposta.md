@@ -3,7 +3,7 @@
 
 ###  Por se tratar de um problema do tipo Classificação,decido usar o modelo que mais se aproxima dos dados,  chamado DecisionTreeClassifier da biblioteca Sklearn. 
   
-###  Os pros são : poder utilizar uma variavel string a ser prevista 
+###  Os pros são : poder utilizar uma variavel string a ser prevista.
 
 ###  Os contras são: que ja nos Features (Variaveis de treino x) não posso utilizar string, por isso me levou a retirar a coluna type do dataframe.
   
