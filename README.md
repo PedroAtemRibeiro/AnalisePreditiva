@@ -1,10 +1,10 @@
 #                                                   Desafio Análise Preditiva
  
--  [Desafio](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/Desafio.md)
+-  [Desafio](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/md/Desafio.md)
 
--  [Proposta](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/Proposta.md) 
+-  [Proposta](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/md/Proposta.md) 
 
--  [Resolução](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/Resolucao.md) 
+-  [Resolução](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/md/Resolucao.md) 
 
 -  [Relatório](https://github.com/PedroAtemRibeiro/AnalisePreditiva/blob/main/Relatorio.pdf)
 
